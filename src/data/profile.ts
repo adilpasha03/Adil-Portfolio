@@ -26,7 +26,7 @@ export const profile = {
   availability: 'Available for Opportunities',
   isAvailable: true,
 
-  resumeUrl: '/resume.pdf',
+  resumeUrl: '/adil_resume.pdf',
 
   aboutParagraph:
     "I'm a Full Stack Developer passionate about building modern, responsive, and user-friendly web applications using the MERN stack and AI technologies. I love turning ideas into real-world solutions, and I'm currently looking for a fresher role where I can keep learning and shipping things that matter.",
@@ -35,7 +35,7 @@ export const profile = {
     github: 'https://github.com/adilpasha03',
     linkedin: 'https://linkedin.com/in/Adil Pasha',
     email: 'mailto:adilp6195@gmail.com',
-    portfolio: 'https://adilpasha.dev',
+    portfolio: 'https://adilpasha-portfolio.netlify.app',
   },
 
   contact: {
